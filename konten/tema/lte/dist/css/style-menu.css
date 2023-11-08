@@ -1,0 +1,41 @@
+.skin-blue .main-header .logo {
+	background:#429190;
+	
+}
+.skin-blue .main-header .logo:hover {
+	background:#429190;
+	
+}
+.skin-blue .sidebar-menu>li:hover>a,.skin-blue .sidebar-menu>li.active>a{border-left-color:#50a3a2}
+
+.skin-blue .main-header .navbar {
+	background:#50a3a2;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+	background:#429190;
+}
+
+.sidebar-menu>li>a {
+    padding: 20px 5px 20px 15px;
+}
+.sidebar-menu .treeview-menu>li>a {
+    padding: 15px 5px 15px 15px;
+}
+.skin-blue .main-header li.user-header {
+    background:#50a3a2;
+}
+
+.content-wrapper {
+	background:#fff !important;
+}
+.box-header {
+	padding :0 0 20px 0;
+}
+.content {
+    padding: 25px;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+	background:#50a3a2;
+	border-color: #50a3a2;
+}
