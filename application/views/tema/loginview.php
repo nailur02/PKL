@@ -30,7 +30,7 @@
   <div class="container">
 		<h1>Sistem Pendukung Keputusan<br>Pemilihan Beasiswa</h1>
 		
-		<form action="<?=base_url();?>login" method="post">
+		<form action="../tu/dashboardview.php" method="Post">
 			<input type="text" name="username" placeholder="Username">
 			<input type="password" name="password" placeholder="Password">
 			<button type="submit" id="login-button">Login</button>
